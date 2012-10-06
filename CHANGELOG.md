@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.0.9 (September 24, 2012)
+
+* Update to Middleman 3.0.5 (fixes 3.0.4 Livereload bug)
+
+## 3.0.8 (September 22, 2012)
+
+* Update to Middleman 3.0.4
+* Default .rvmrc updated to Ruby 1.9.3-p194
+
 ## 3.0.7 (September 11, 2012)
 
 * Update to Middleman 3.0.2
