@@ -1,0 +1,15 @@
+source :rubygems
+
+<<<<<<< HEAD
+gem "middleman", "~>3.0.5"
+gem "middleman-favicon-maker"
+gem "middleman-livereload"
+=======
+gem "middleman", "~>3.0.2"
+gem "middleman-favicon-maker", "~>3.0.0", :git => "https://github.com/follmann/middleman-favicon-maker.git"
+gem "middleman-livereload", "~>3.0.0", :git => "https://github.com/middleman/middleman-livereload.git"
+>>>>>>> 75f5ea7e05d6ac32709d160171071b0a1aad9cc8
+gem "susy", "1.0"
+gem "redcarpet"
+
+gem 'coffee-filter' # Coffeescript filter for HAML
